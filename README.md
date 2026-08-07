@@ -15,29 +15,13 @@ Instead of only marking questions as solved, I also record:
 The goal is to make revision easier and help others preparing for coding interviews and competitive programming.
 
 ---
+## 📚 DSA Sheets
 
-# 🚀 LeetCode DSA Sheet
-
-🔗 **Google Sheet**
-
-> (https://docs.google.com/spreadsheets/d/1lm-qW74M9h84IGH8-F67E3apfF1Wbr38sHf6j0REmkc/edit?pli=1&gid=0#gid=0)
-
----
-
-# 📘 GeeksForGeeks DSA Sheet
-
-🔗 **Google Sheet**
-
-> (https://docs.google.com/spreadsheets/d/14No8UPBy2CtaMhvlhJ4x7nN_cKwAJdj9WkVuwXOXLn4/edit?gid=0#gid=0)
-
----
-
-# ⚔️ Codeforces DSA Sheet
-
-🔗 **Google Sheet**
-
-> (https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rWMrCouWsT-XHWE8Uo/edit?gid=0#gid=0)
-
+| Platform | Open |
+|----------|------|
+| 🚀 LeetCode | [📄 View Sheet](https://docs.google.com/spreadsheets/d/1lm-qW74M9h84IGH8-F67E3apfF1Wbr38sHf6j0REmkc/edit?pli=1&gid=0#gid=0) |
+| 📘 GeeksForGeeks | [📄 View Sheet](https://docs.google.com/spreadsheets/d/14No8UPBy2CtaMhvlhJ4x7nN_cKwAJdj9WkVuwXOXLn4/edit?gid=0#gid=0) |
+| ⚔️ Codeforces | [📄 View Sheet](https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rWMrCouWsT-XHWE8Uo/edit?gid=0#gid=0) |
 ---
 
 ## ⭐ About
