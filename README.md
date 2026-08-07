@@ -2,6 +2,8 @@ Welcome!
 
 This repository contains my personal DSA tracking sheets that I maintain while solving problems on different coding platforms.
 
+The goal is to make revision easier and help others preparing for coding interviews and competitive programming.
+
 ---
 ## 📚 DSA Sheets
 
@@ -20,9 +22,8 @@ Instead of only marking questions as solved, I also record:
 - 📝 Personal observations
 - 🔗 Direct problem links
 
-# The goal is to make revision easier and help others preparing for coding interviews and competitive programming.
 
-## ⭐ About
+# ⭐ About
 
 These sheets are my personal learning notes created while solving problems.
 
