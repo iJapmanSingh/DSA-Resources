@@ -1,19 +1,6 @@
-# 📚 DSA Resources
-
 Welcome!
 
 This repository contains my personal DSA tracking sheets that I maintain while solving problems on different coding platforms.
-
-Instead of only marking questions as solved, I also record:
-
-- 📌 Pattern used
-- 📈 Difficulty
-- 🧠 Core concept required
-- 📝 Personal observations
-- 🔗 Direct problem links
-
-The goal is to make revision easier and help others preparing for coding interviews and competitive programming.
-
 ---
 ## 📚 DSA Sheets
 
@@ -23,6 +10,16 @@ The goal is to make revision easier and help others preparing for coding intervi
 | 📘 GeeksForGeeks | [📄 View Sheet](https://docs.google.com/spreadsheets/d/14No8UPBy2CtaMhvlhJ4x7nN_cKwAJdj9WkVuwXOXLn4/edit?gid=0#gid=0) |
 | ⚔️ Codeforces | [📄 View Sheet](https://docs.google.com/spreadsheets/d/1VQl2Q9FHMsXNV-sxT7OA2LMm5rWMrCouWsT-XHWE8Uo/edit?gid=0#gid=0) |
 ---
+
+Instead of only marking questions as solved, I also record:
+
+- 📌 Pattern used
+- 📈 Difficulty
+- 🧠 Core concept required
+- 📝 Personal observations
+- 🔗 Direct problem links
+
+#The goal is to make revision easier and help others preparing for coding interviews and competitive programming.
 
 ## ⭐ About
 
