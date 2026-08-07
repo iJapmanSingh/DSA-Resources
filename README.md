@@ -47,3 +47,10 @@ These sheets are my personal learning notes created while solving problems.
 They are continuously updated as I learn new concepts and solve more questions.
 
 If you find them useful, consider starring ⭐ this repository.
+
+<p align="center">
+  <img src="assets/preview2.png" width="900">
+</p>
+<p align="center">
+  <img src="assets/preview1.png" width="900">
+</p>
