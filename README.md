@@ -20,7 +20,7 @@ Instead of only marking questions as solved, I also record:
 - 📝 Personal observations
 - 🔗 Direct problem links
 
-#The goal is to make revision easier and help others preparing for coding interviews and competitive programming.
+# The goal is to make revision easier and help others preparing for coding interviews and competitive programming.
 
 ## ⭐ About
 
